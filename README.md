@@ -76,3 +76,7 @@ Open the URL generated in your console. Once you grant permission to the app, yo
 - [App extensions](https://shopify.dev/docs/apps/build/app-extensions)
 - [Extension only apps](https://shopify.dev/docs/apps/build/app-extensions/build-extension-only-app)
 - [Shopify CLI](https://shopify.dev/docs/apps/tools/cli)
+
+## Test store link -- https://mahatarapur.myshopify.com/
+password : marmeto
+products eligible : Offer Collection products
